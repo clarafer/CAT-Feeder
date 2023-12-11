@@ -1,2 +1,3 @@
 # CAT-Feeder
 Alimentador de Gatos em Arduino.
+Este alimentador tem como função alimentar em caso de férias, os gatos de uma família. Este alimentador específico foi desenhado para 4 gatos durante 1 semana, pelo que, recorrendo a apenas 1 servo motor, foi necessário desenhar um projeto em que a comida não exercesse muita força no mecanismo de libertar a comida. Foi acrescentado também uma pilha relógio para que o mecanismo fizesse sempre a alimentação às 8 da manhã e às 8 da noite. Este projeto tem margem para melhorias, pretendendo-se acrescentar um sensor que permita analisar o nível da comida para que se possa prever os reabastecimentos e também uma app para que se possa, posteriormente, controlar o mecanismo através do wi-fi da casa.
